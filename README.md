@@ -6,7 +6,7 @@
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-ec2-linux-config-nginx-demo/issues/new)
 
 ## reference
-![youtube](https://www.youtube.com/watch?v=9ALLIjmJ3tU&list=PLjCpH2Qpki-sTjdlYXE8AifSKQFa8ZL23&index=14)
+[youtube](https://www.youtube.com/watch?v=9ALLIjmJ3tU&list=PLjCpH2Qpki-sTjdlYXE8AifSKQFa8ZL23&index=14)
 
 ## 1/ launch EC2
 - type=`Linux`
